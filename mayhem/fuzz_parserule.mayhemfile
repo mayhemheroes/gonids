@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_parserule
+cmds:
+- cmd: /out/fuzz_parserule
